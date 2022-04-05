@@ -1,0 +1,28 @@
+body
+{
+    color: aqua;
+    background: linear-gradient(to right,white, black);
+    font-size: 22px;
+    font-style: italic;
+    font-family: monotype corosive;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 32px;
+    font-style: italic;
+    font-family: monotype corosive;
+}
+
+#camera
+{
+    border:2px dashed aqua;
+    width: 320px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: aqua;
+}
